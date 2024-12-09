@@ -1,0 +1,10 @@
+div {
+    background-color: cadetblue;
+    width: 800px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;;
+}
+h6{
+   font-size: medium;
+}
