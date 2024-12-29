@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #050505;
+
+  }
+  
+  .calculator {
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #fffbfb;
+    border-radius: 10px;
+    max-width: 400px;
+    background-color: #050505;
+    /* background-image: url(..//photos/tahaali23.webp); */
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+ 
+  
+  h2 {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+  }
+  
+  input {
+    /* display: block;
+    width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px; */
+    background: rgba (255, 255, 255, 0.3);
+    height: 40px;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    border: none;
+    margin-bottom: 20px;
+    color: rgb(12, 10, 10);
+  }
+  
+  button {
+   
+
+   
+   
+  
+    cursor: pointer;
+    font-size: 1em;
+   
+    padding: 0px 20px;
+    background: rgb(238, 234, 234);
+    height: 40px;
+    line-height: 40px;
+    border-radius: 40px;
+    border: none;
+    margin: 10px 0px;
+    box-shadow: 0px, 0px, 5px, rgb(0, 0, 0, 0.3);
+    color: rgb(10, 10, 10);
+
+
+
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #030303;
+    font-size: 1.2em;
+    color: #e7e3e3;
+  }
+  .calculator{
+    color: aliceblue;
+  }
+  
